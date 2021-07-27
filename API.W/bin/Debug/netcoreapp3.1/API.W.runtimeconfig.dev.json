@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\antcas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\antcas\\.nuget\\packages"
+    ]
+  }
+}
